@@ -1,0 +1,4 @@
+﻿  client.cpp
+C:\workspace\Network-Programming\Window_echo\window_echo_client\window_echo_client\client.cpp(35,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\workspace\Network-Programming\Window_echo\window_echo_client\window_echo_client\client.cpp(20,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  window_echo_client.vcxproj -> C:\workspace\Network-Programming\Window_echo\window_echo_client\x64\Debug\window_echo_client.exe

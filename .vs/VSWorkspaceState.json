@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Window_chatting",
+    "\\Window_chatting\\window_chatting_client",
+    "\\Window_chatting\\window_chatting_client\\window_chatting_client"
+  ],
+  "SelectedNode": "\\Window_chatting\\window_chatting_client\\window_chatting_client\\client.cpp",
+  "PreviewInSolutionExplorer": false
+}

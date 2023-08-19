@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\workspace\c++\window_chatting_server\window_chatting_server\server.cpp(39,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\workspace\c++\window_chatting_server\window_chatting_server\server.cpp(119,7): warning C4101: 'szBuffer': unreferenced local variable
+  window_chatting_server.vcxproj -> C:\workspace\c++\window_chatting_server\x64\Debug\window_chatting_server.exe

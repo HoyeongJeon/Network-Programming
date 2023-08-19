@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\workspace\c++\window_chatting_client\window_chatting_client\client.cpp(66,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  window_chatting_client.vcxproj -> C:\workspace\c++\window_chatting_client\x64\Debug\window_chatting_client.exe
